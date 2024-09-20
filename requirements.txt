@@ -1,0 +1,6 @@
+beautifulsoup4
+gitpython
+Jinja2
+openai
+python-dotenv
+python-slugify
